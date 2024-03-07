@@ -37,8 +37,8 @@ export default function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Want more tutorials & guides?</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <h3 className="h3 text-white mb-2">For Information and Details</h3>
+                <p className="text-gray-300 text-lg mb-6">Get in touch with Fortify Labs for enquiries or any other topic</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
